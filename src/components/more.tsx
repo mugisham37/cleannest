@@ -1,6 +1,6 @@
 import React from 'react'
 
-const more = () => {
+const More = () => {
   return (
    <section className="section_more-services">
                 <div className="padding-global padding-section-medium">
@@ -314,4 +314,4 @@ const more = () => {
   )
 }
 
-export default more
+export default More
