@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Script from "next/script";
 import Nav from "../components/nav";
@@ -76,7 +75,7 @@ export default function RootLayout({
         </div>
         <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67318cb9b838c7d9b22e8814"
           type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-          crossorigin="anonymous"></script>
+          crossOrigin="anonymous"></script>
         <script src="https://cdn.prod.website-files.com/67318cb9b838c7d9b22e8814/js/webflow.schunk.0e77e8610c42c2bf.js"
           type="text/javascript"></script>
         <script src="https://cdn.prod.website-files.com/67318cb9b838c7d9b22e8814/js/webflow.schunk.da0c470c2b8523bd.js"

@@ -157,8 +157,8 @@ const Nav = () => {
                                                 role="button" aria-label="Close cart"
                                                 data-node-type="commerce-cart-close-link"><svg width="16px"
                                                     height="16px" viewBox="0 0 16 16">
-                                                    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-                                                        <g fill-rule="nonzero" fill="#333333">
+                                                    <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+                                                        <g fillRule="nonzero" fill="#333333">
                                                             <polygon
                                                                 points="6.23223305 8 0.616116524 13.6161165 2.38388348 15.3838835 8 9.76776695 13.6161165 15.3838835 15.3838835 13.6161165 9.76776695 8 15.3838835 2.38388348 13.6161165 0.616116524 8 6.23223305 2.38388348 0.616116524 0.616116524 2.38388348 6.23223305 8">
                                                             </polygon>
@@ -207,7 +207,7 @@ const Nav = () => {
                                                                             points=".894 0 13.169 0 13.169 6.443 .894 6.443">
                                                                         </polygon>
                                                                     </defs>
-                                                                    <g fill="none" fill-rule="evenodd">
+                                                                    <g fill="none" fillRule="evenodd">
                                                                         <path fill="#4285F4"
                                                                             d="M10.5967,12.0469 L10.5967,14.0649 L13.1167,14.0649 C14.6047,12.6759 15.4577,10.6209 15.4577,8.1779 C15.4577,7.6339 15.4137,7.0889 15.3257,6.5559 L7.8887,6.5559 L7.8887,9.6329 L12.1507,9.6329 C11.9767,10.6119 11.4147,11.4899 10.5967,12.0469">
                                                                         </path>
@@ -233,7 +233,7 @@ const Nav = () => {
                                                                     className="w-commerce-commercequickcheckoutmicrosofticon"
                                                                     xmlns="http://www.w3.org/2000/svg" width="16"
                                                                     height="16" viewBox="0 0 16 16">
-                                                                    <g fill="none" fill-rule="evenodd">
+                                                                    <g fill="none" fillRule="evenodd">
                                                                         <polygon fill="#F05022"
                                                                             points="7 7 1 7 1 1 7 1"></polygon>
                                                                         <polygon fill="#7DB902"
