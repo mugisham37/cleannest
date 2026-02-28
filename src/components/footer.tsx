@@ -1,5 +1,3 @@
-import React from 'react'
-
 const footer = () => {
   return (
     <footer className="footer">
@@ -69,7 +67,7 @@ const footer = () => {
                                         <div className="link-underline"
                                             style={{transform: 'translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
                                         </div>
-                                    </a><a data-w-id="b8294761-9449-7fe6-10ba-8cf990e8d4ce" href="/about-us"
+                                    </a><a data-w-id="b8294761-9449-7fe6-10ba-8cf990e8d4ce" href="/about"
                                         className="footer_link w-inline-block">
                                         <div className="text-sm text-spacing-none">About Us</div>
                                         <div className="link-underline"
@@ -81,15 +79,9 @@ const footer = () => {
                                         <div className="link-underline"
                                             style={{transform: 'translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
                                         </div>
-                                    </a><a data-w-id="2c9b208c-de12-1505-020a-6bfffd8c755d" href="/contact-us"
+                                    </a><a data-w-id="2c9b208c-de12-1505-020a-6bfffd8c755d" href="/contact"
                                         className="footer_link w-inline-block">
                                         <div className="text-sm text-spacing-none">Contact</div>
-                                        <div className="link-underline"
-                                            style={{transform: 'translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
-                                        </div>
-                                    </a><a data-w-id="a8741b4b-9790-7d3c-7009-a8281a579855" href="/blog"
-                                        className="footer_link w-inline-block">
-                                        <div className="text-sm text-spacing-none">Blogs</div>
                                         <div className="link-underline"
                                             style={{transform: 'translate3d(-110%, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
                                         </div>
