@@ -1,4 +1,4 @@
-const testimonial = () => {
+const Testimonial = () => {
   return (
     <section className="section_testimonials">
                 <div className="padding-global padding-section-medium">
@@ -247,4 +247,4 @@ const testimonial = () => {
   )
 }
 
-export default testimonial
+export default Testimonial
